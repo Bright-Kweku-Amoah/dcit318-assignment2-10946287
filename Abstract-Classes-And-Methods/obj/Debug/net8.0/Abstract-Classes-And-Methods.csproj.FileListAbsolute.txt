@@ -1,0 +1,15 @@
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment2-10946287\Abstract-Classes-And-Methods\bin\Debug\net8.0\Abstract-Classes-And-Methods.exe
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment2-10946287\Abstract-Classes-And-Methods\bin\Debug\net8.0\Abstract-Classes-And-Methods.deps.json
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment2-10946287\Abstract-Classes-And-Methods\bin\Debug\net8.0\Abstract-Classes-And-Methods.runtimeconfig.json
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment2-10946287\Abstract-Classes-And-Methods\bin\Debug\net8.0\Abstract-Classes-And-Methods.dll
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment2-10946287\Abstract-Classes-And-Methods\bin\Debug\net8.0\Abstract-Classes-And-Methods.pdb
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment2-10946287\Abstract-Classes-And-Methods\obj\Debug\net8.0\Abstract-Classes-And-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment2-10946287\Abstract-Classes-And-Methods\obj\Debug\net8.0\Abstract-Classes-And-Methods.AssemblyInfoInputs.cache
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment2-10946287\Abstract-Classes-And-Methods\obj\Debug\net8.0\Abstract-Classes-And-Methods.AssemblyInfo.cs
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment2-10946287\Abstract-Classes-And-Methods\obj\Debug\net8.0\Abstract-Classes-And-Methods.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment2-10946287\Abstract-Classes-And-Methods\obj\Debug\net8.0\Abstract-Classes-And-Methods.sourcelink.json
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment2-10946287\Abstract-Classes-And-Methods\obj\Debug\net8.0\Abstract-Classes-And-Methods.dll
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment2-10946287\Abstract-Classes-And-Methods\obj\Debug\net8.0\refint\Abstract-Classes-And-Methods.dll
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment2-10946287\Abstract-Classes-And-Methods\obj\Debug\net8.0\Abstract-Classes-And-Methods.pdb
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment2-10946287\Abstract-Classes-And-Methods\obj\Debug\net8.0\Abstract-Classes-And-Methods.genruntimeconfig.cache
+C:\Users\LENOVO. sm\Desktop\dcit318-assignment2-10946287\Abstract-Classes-And-Methods\obj\Debug\net8.0\ref\Abstract-Classes-And-Methods.dll
